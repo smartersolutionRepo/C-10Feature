@@ -1,0 +1,5 @@
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\netcoreapp1.0\c sharp 10 features showcase.csproj.AssemblyReference.cache
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\netcoreapp1.0\c sharp 10 features showcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\netcoreapp1.0\c sharp 10 features showcase.AssemblyInfoInputs.cache
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\netcoreapp1.0\c sharp 10 features showcase.AssemblyInfo.cs
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\netcoreapp1.0\c sharp 10 features showcase.csproj.CoreCompileInputs.cache

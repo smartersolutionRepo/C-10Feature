@@ -1,0 +1,30 @@
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.exe
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.deps.json
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.runtimeconfig.json
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.dll
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.pdb
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.csproj.AssemblyReference.cache
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.AssemblyInfoInputs.cache
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.AssemblyInfo.cs
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.dll
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\refint\c sharp 10 features showcase.dll
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.pdb
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.genruntimeconfig.cache
+D:\Visual Studio 2022 Projects\c sharp 10 features showcase\obj\Debug\net6.0\ref\c sharp 10 features showcase.dll
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.exe
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.deps.json
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.runtimeconfig.json
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.dll
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\bin\Debug\net6.0\c sharp 10 features showcase.pdb
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.AssemblyInfo.cs
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.dll
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\refint\c sharp 10 features showcase.dll
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.pdb
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\c sharp 10 features showcase.genruntimeconfig.cache
+C:\Users\DELL\Desktop\c sharp 10 features showcase (1)\c sharp 10 features showcase\obj\Debug\net6.0\ref\c sharp 10 features showcase.dll
